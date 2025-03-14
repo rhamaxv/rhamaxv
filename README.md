@@ -63,8 +63,6 @@ if __name__ == "__main__":
 </p>
 <br>
 
-[![Rhamax V's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rhamaxv&custom_title=Rhamax%20V's%20Contribution%20Graph&theme=radical&bg_color=1A1A1A&hide_border=true&line=FF4C29&point=FFD700)](https://rhamaxy.vercel.app)
-
 ------
 
 Credit: [rhamaxv](https://github.com/rhamaxv)
